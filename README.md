@@ -1,5 +1,8 @@
 # **Predicción de Resultados de Alumnos.**
 
+>[!WARNING]
+>La aplicación no fue testeada a fondo, y no contiene casos de validación. Puede contener errores críticos. No se recomienda usarla fuera de un ámbito informal.
+
 ## Breve Explicación.
 Copia del proyecto original, incluyendóle algunas mejoras que este no tenía. Se realizó como proyecto final de Programación y Laboratorio de Computación 1, utilizando todo lo visto en ambas materias
 
